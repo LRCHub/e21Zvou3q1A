@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "君が飛び降りるのなら",
+  "base_artist": "Omoi",
+  "createdAt": "2025-12-14T11:55:07.561991Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君が飛び降りるのなら",
+      "artist": "Omoi",
+      "has_synced": true,
+      "path": "select/01_君が飛び降りるのなら_Omoi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君が飛び降りるのなら",
+      "artist": "Omoi feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_君が飛び降りるのなら_Omoi_feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君が飛び降りるのなら",
+      "artist": "omoi",
+      "has_synced": false,
+      "path": "select/pl_01_君が飛び降りるのなら_omoi.txt"
+    }
+  ]
+}
